@@ -1,0 +1,21 @@
+#header {
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-size: 20px;
+    background-color: grey;
+    border: 2px solid blue;
+}
+
+#data {
+    width: 400px;
+    padding: 20px 0 500px 0;
+    background-color: #8FBC8F;
+    border-right: 2px solid blue;
+    border-left: 2px solid blue;
+}
+
+td{
+    font-size: 16px;
+    color: white;
+    padding: 10px 20px 0 0;
+}
